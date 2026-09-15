@@ -1,4 +1,4 @@
-# Slices — Python Project
+# slices — python project
 
 > Dice and slices studies, pizza-themed 🍕 — Python **slicing** practice.
 
